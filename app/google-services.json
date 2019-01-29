@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "652687498905",
+    "firebase_url": "https://innoviacucek-54281.firebaseio.com",
+    "project_id": "innoviacucek-54281",
+    "storage_bucket": "innoviacucek-54281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652687498905:android:1fab483f0604a97d",
+        "android_client_info": {
+          "package_name": "com.andro.anant.innoviacucek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652687498905-7m8h1n6mdn60s5dhv2eql7q9dnunmmor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andro.anant.innoviacucek",
+            "certificate_hash": "b9ed4cf20642f20a1930ad90dc8cb6def98b9ae5"
+          }
+        },
+        {
+          "client_id": "652687498905-29rghjs54fuofcqdqvqmla3esn8ni5j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvV_9yPjU8rB5GnCliOVGf8J04cRPOhzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652687498905-29rghjs54fuofcqdqvqmla3esn8ni5j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
